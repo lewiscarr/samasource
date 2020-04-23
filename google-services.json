@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689350344564",
+    "firebase_url": "https://sama-d57ab.firebaseio.com",
+    "project_id": "sama-d57ab",
+    "storage_bucket": "sama-d57ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689350344564:android:6c855acef0aa0e8d7e7621",
+        "android_client_info": {
+          "package_name": "com.tituslearning.sama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689350344564-v6qeda23qrigaiqves9asacufb4o4hbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMyTX75SC1qI9KgaFIODFWMkKeYi9A94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689350344564-v6qeda23qrigaiqves9asacufb4o4hbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "689350344564-ia0kun34c28a73c31a72bliupm20ohal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tituslearning.sama"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
