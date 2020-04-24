@@ -91,11 +91,13 @@ ion-app.app-root addon-calendar-calendar .addon-calendar-day.today .addon-calend
 /* Main app plus add icon */
 .fab-md {
 	background-color: #fffa0c;
+	color: #28282a;
 	/* In-course dividers */
 }
 
 .fab {
 	background-color: #fffa0c;
+	color: #28282a;
 	/* In-course dividers */
 }
 button.alert-button.alert-button-md.alert-button-default.alert-button-default-md.ng-star-inserted {
@@ -462,11 +464,13 @@ form.ng-untouched.ng-pristine.ng-valid.ng-star-inserted h2 {
 
 
 ion-item-divider.item.item-divider.item.item-divider h2 {
-    color: #fff;
+    color: #fffa0c;
+    font-weight: bold;
 }
 
 ion-item-divider.item.item-divider.item-md.item-divider-md h2 {
-    color: #fff;
+    color: #fffa0c;
+    font-weight: bold;
 }
 
 
