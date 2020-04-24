@@ -201,10 +201,12 @@ ion-item-divider.item.item-divider.item.item-divider {
 	color: #28282a;
 }
 button.disable-hover.button.button-md.button-default.button-default-md.button-block.button-block-md {
-	background: #28282a;
+	background: #fffa0c;
+	color:#28282a;
 }
 button.disable-hover.button.button.button-default.button-default.button-block.button-block {
-	background: #28282a;
+	background: #fffa0c;
+	color:#28282a;
 }
 ion-app.app-root page-core-user-profile .core-user-communication-handlers .core-user-profile-handler .icon {
 	background-color: #28282a;
@@ -242,10 +244,12 @@ ion-app.app-root core-block .item-divider .icon {
 }
 
 a.button.button-md.button-default.button-default-md.button-block.button-block-md.item-button.ng-star-inserted {
-	background: #28282a;
+	background: #fffa0c;
+	color:#28282a;
 }
 a.button.button.button-default.button-default.button-block.button-block.item-button.ng-star-inserted {
-	background: #28282a;
+	background: #fffa0c;
+	color:#28282a;
 }
 
 button.disable-hover.core-user-profile-handler.addon-messages-removecontact-handler.button.button-md.button-outline.button-outline-md.button-block.button-block-md.item-button.ng-star-inserted {
