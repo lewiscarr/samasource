@@ -155,7 +155,7 @@ span.button.button.button-clear.button-clear.button-clear-gray.item-button.ng-st
 	background: #fff;
 }
 ion-app.app-root .core-button-select .select-icon .select-icon-inner, ion-app.app-root ion-select.core-button-select .select-icon .select-icon-inner {
-	color: #ea4b14;
+	color: #cdcdcd;
 }
 .alert-md .alert-button {
 	color: #28282a;
@@ -538,7 +538,7 @@ toggle-md.toggle-checked .toggle-icon {
 }
 
 .toggle-md.toggle-checked .toggle-icon {
-    background-color: #ea4b14!important;
+    background-color: #cdcdcd!important;
 }
 
 .segment-md-primary .segment-button {
