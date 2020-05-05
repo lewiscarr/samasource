@@ -710,3 +710,126 @@ color:#fff;
    
     background-color: #28282a;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fp-label {
+	 margin-left: auto;
+	 margin-right: auto;
+	 max-width: 1200px;
+	 text-align: center;
+	 position: relative;
+	 padding-top: 0.5rem;
+	 overflow: hidden;
+}
+ .fp-label .fp-label-container {
+	 margin-right: -3rem;
+}
+ .fp-label .fp-links:hover {
+	 text-decoration: none;
+}
+ .fp-label .fp-buttons {
+	 margin-right: 3rem;
+	 margin-bottom: 3rem;
+	 border: none;
+	 padding: 1rem;
+	 min-height: 144px;
+	 z-index: 1;
+	 position: relative;
+	 transition-property: all;
+	 transition-duration: 0.3s;
+	 transition-timing-function: ease;
+}
+ .fp-label .fp-buttons:before {
+	 content: "";
+	 height: 100%;
+	 width: 100%;
+	 background-color: #fff;
+	 border: 0.1rem solid #fff;
+	 border-radius: 0 0 0 1.1rem;
+	 position: absolute;
+	 z-index: 1;
+	 top: 0;
+	 left: 0;
+	 transform: translate(0.25rem, 0.25rem);
+	 transition-property: all;
+	 transition-duration: 0.3s;
+	 transition-timing-function: ease;
+	 z-index: -1;
+}
+ .fp-label .fp-buttons:after {
+	 content: "";
+	 background-color: #fff;
+	 border: 0.1rem solid #fff;
+	 border-radius: 0 0 0 1.1rem;
+	 height: 100%;
+	 width: 100%;
+	 position: absolute;
+	 z-index: -1;
+	 top: 0;
+	 left: 0;
+	 transition-property: all;
+	 transition-duration: 0.3s;
+	 transition-timing-function: ease;
+}
+ .fp-label .fp-buttons:hover {
+	 transform: translate3d(-5px, -5px, 0px);
+	 transition-property: all;
+	 transition-duration: 0.3s;
+	 transition-timing-function: ease;
+}
+ .fp-label .fp-buttons:hover:before {
+	 transform: translate3d(8px, 8px, 0px);
+}
+ .fp-label .fp-buttons:before {
+	 background-color: #fff;
+	 border: 0.15rem solid #28282a;
+	 border-width: 3px;
+	 transform: translate(0.4rem, 0.4rem);
+}
+ .fp-label .fp-buttons:after {
+	 background-color: #fff;
+	 border: 0.15rem solid #28282a;
+	 border-width: 3px;
+}
+ .fp-label .fp-buttons:hover:before {
+	 background-color: rgba(41, 29, 84, 0.7);
+	 transform: translate3d(11px, 11px, 0);
+}
+ .fp-label .fp-buttons .button-content {
+	 display: grid;
+	 grid-template-columns: 6rem 10rem;
+	 margin: 0.5rem;
+	 grid-column-gap: 1rem;
+	 align-items: center;
+	 position: relative;
+}
+ .fp-label .fp-buttons .button-content img {
+	 width: 100%;
+	 max-width: 100%;
+	 z-index: 1;
+}
+ .fp-label .fp-buttons .button-content:before {
+	 content: '';
+	 position: absolute;
+	 left: 1rem;
+	 height: 80px;
+	 width: 80px;
+	 border-radius: 50%;
+	 background-color: #fffa0c;
+	 z-index: 0;
+}
+ .fp-label .fp-buttons h5 {
+	 margin-bottom: 0;
+}
