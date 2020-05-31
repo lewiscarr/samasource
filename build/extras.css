@@ -1007,3 +1007,19 @@ background: #291d54;
 a.core-navigation-bar-arrow.disable-hover.button.button.button-default.button-default.ng-star-inserted {
 background: #291d54;
 }
+
+
+ion-app.app-root .core-info-card {
+    border-bottom: none;
+}
+
+
+ion-item.core-course-link.item.item-block.item ion-app.app-root .item h2 {
+color: #fffa0c;
+}
+
+
+
+ion-item.core-course-link.item.item-block.item span.button-inner {
+    color: #fff;
+}
