@@ -648,7 +648,7 @@ span.core-button-select-text {
 
 ion-app.app-root core-course-format .item-divider core-format-text {
   
-   color: #fffa0c;
+   color: #291d54;
     font-weight: bold;
 }
 
@@ -977,3 +977,33 @@ button.back-button.disable-hover.bar-button.bar-button.back-button.bar-button-de
     color: #291d54;
 }
 
+.back-button-md {
+    color: #291d54;
+}
+
+.back-button {
+    color: #291d54;
+}
+
+a.disable-hover.item-button.button.button.button-default.button-default.button-block.button-block {
+   
+    color: #fff;
+}
+
+ion-app.app-root core-course-format .item-divider core-format-text {
+    color: #291d54;
+    font-weight: bold;
+}
+
+
+.button.button.button.button-default.button-default.button-block.button-block {
+color: #fff;
+}
+
+a.core-navigation-bar-arrow.disable-hover.button.button-md.button-default.button-default-md.ng-star-inserted {
+background: #291d54;
+}
+
+a.core-navigation-bar-arrow.disable-hover.button.button.button-default.button-default.ng-star-inserted {
+background: #291d54;
+}
