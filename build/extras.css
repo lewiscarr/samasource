@@ -965,7 +965,15 @@ button.disable-hover.button.button-md.button-default.button-default-md.button-fu
     color: #291d54!important;
 }
 
-button.disable-hover.button.button.button-default.button-default.button-full.button-full.button-md-light {
+button.disable-hover.button.button.button-default.button-default.button-full.button-full.button-light {
     color: #291d54!important;
+}
+
+button.back-button.disable-hover.bar-button.bar-button-md.back-button-md.bar-button-default.bar-button-default-md.show-back-button {
+    color: #291d54;
+}
+
+button.back-button.disable-hover.bar-button.bar-button.back-button.bar-button-default.bar-button-default.show-back-button {
+    color: #291d54;
 }
 
