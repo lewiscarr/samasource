@@ -920,22 +920,26 @@ ion-item-divider.item.item-divider.item.item-divider h2 {
 .button.item-button.button.button-md.button-default.button-default-md.button-block.button-block-md {
     background: #fffa0c;
     border-bottom-left-radius: 15px;
+    color: #291d54;
 }
 
 .button.item-button.button.button.button-default.button-default.button-block.button-block {
     background: #fffa0c;
     border-bottom-left-radius: 15px;
+    color: #291d54;
 }
 
 .button.button.button-md.button-default.button-default-md.button-block.button-block-md {
     background: #fffa0c;
     border-bottom-left-radius: 15px;
+    color: #291d54;
 }
 
 
 .button.button.button.button-default.button-default.button-block.button-block {
     background: #fffa0c;
     border-bottom-left-radius: 15px;
+    color: #291d54;
 }
 
 .button-md-light {
@@ -947,6 +951,7 @@ ion-item-divider.item.item-divider.item.item-divider h2 {
 .button-light {
     background-color: #fff;
     border-bottom-left-radius: 15px;
+    
 }
 
 
