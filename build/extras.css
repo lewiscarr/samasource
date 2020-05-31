@@ -1014,12 +1014,14 @@ ion-app.app-root .core-info-card {
 }
 
 
-ion-item.core-course-link.item.item-block.item ion-app.app-root .item h2 {
-color: #fffa0c;
+
+
+.core-course-title.core-course-with-buttons h2 {
+   color: #fffa0c;
 }
 
 
 
-ion-item.core-course-link.item.item-block.item span.button-inner {
+.core-course-title.core-course-with-buttons span.button-inner {
     color: #fff;
 }
