@@ -833,3 +833,20 @@ color:#fff;
  .fp-label .fp-buttons h5 {
 	 margin-bottom: 0;
 }
+
+
+.fp-label .fp-buttons .button-content:before {
+  display: none;
+}
+
+.fp-label .fp-buttons h5 {
+  font-size: 20px !important;
+}
+
+.fp-label .fp-buttons .button-content img {
+    display: none;
+}
+
+.fp-label .fp-buttons .button-content {
+    grid-template-columns: 8rem;
+}
